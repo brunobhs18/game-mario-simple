@@ -35,7 +35,7 @@ O Jogo é um projeto simples feito para conseguir através de enventos gerar um 
 
 ## 🔖 Layout
 
-Você pode visualizar o layout do projeto através [DESSE LINK]( ). 
+Você pode visualizar o layout do projeto através [DESSE LINK](https://game-mario-simple.vercel.app/?). 
 
 ## :memo: Licença
 
